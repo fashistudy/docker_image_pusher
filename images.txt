@@ -7,6 +7,7 @@
 #--platform=linux/arm64/v8 enmotech/opengauss:5.0.0
 #--platform=linux/arm64/v8 influxdb:2.7.6
 #--platform=linux/arm64/v8 minio/minio:RELEASE.2023-03-24T21-41-23Z
---platform=linux/arm64/v8 rabbitmq:management
+#--platform=linux/arm64/v8 rabbitmq:management
+--platform=linux/arm64/v8 openjdk:17.0.2-oraclelinux8
 #支持指定架构
 #--platform=linux/arm64/v8
