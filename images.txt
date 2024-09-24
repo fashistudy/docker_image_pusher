@@ -6,6 +6,7 @@
 #--platform=linux/arm64/v8 nodered/node-red:3.1.8
 #--platform=linux/arm64/v8 enmotech/opengauss:5.0.0
 #--platform=linux/arm64/v8 influxdb:2.7.6
---platform=linux/arm64/v8 minio/minio:RELEASE.2023-03-24T21-41-23Z
+#--platform=linux/arm64/v8 minio/minio:RELEASE.2023-03-24T21-41-23Z
+--platform=linux/arm64/v8 rabbitmq:management
 #支持指定架构
 #--platform=linux/arm64/v8
